@@ -1,0 +1,19 @@
+
+
+body{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color:white;
+}
+
+.card{
+    padding:2em ;
+    border:1px solid rgb(239, 235, 235) ;
+    
+}
+.grid{
+    max-width:120rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:1.6rem;
+}
